@@ -12,7 +12,7 @@ This service offers a paid solution for efficiently and quickly banning and unba
 
 ### 2. Account Unban
 - **Regain Access**: Effortlessly unban accounts that were previously banned.
-- **Restore Communication**: After unbanning, you can reconnect with users and continue engaging with them.
+- **Restore Communication**: After unbanning, you can reconnect with users and continue engaging with them. 
 
 ## Service Details
 - **Processing Time**: The processing time for both banning and unbanning accounts typically ranges from 1 to 7 days, depending on the complexity of the request.
