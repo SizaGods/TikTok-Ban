@@ -6,7 +6,7 @@ This service offers a paid solution for efficiently and quickly banning and unba
  
 ## Features of the Service  
  
-### 1. Account Ban 
+### 1. Account Ban  
 - **Control Over Interactions**: Easily ban unwanted or disruptive users from interacting with your content. 
 - **Content Protection**: By banning users, you can maintain a safer and more enjoyable TikTok experience.
 
